@@ -14446,5 +14446,21 @@
 "elevation_gain": 12.6,
 "source": "strava",
 "streak": 24
+},
+{
+"run_id": 18739295719,
+"name": "傍晚步行",
+"distance": 2880.1,
+"moving_time": "0:33:11",
+"type": "Hike",
+"start_date": "2026-06-01 08:57:12+00:00",
+"start_date_local": "2026-06-01 17:57:12",
+"location_country": "{\"city\": \"Kōfu\", \"coordinate\": [138.56215, 35.67015], \"country\": \"Japan\", \"display\": \"Asahi 3-chome, Tenjincho, Kōfu, Yamanashi Prefecture, 400-0035, Japan\", \"province\": \"Yamanashi Prefecture\"}",
+"summary_polyline": "oduxEyewlY\\b@MO?@gCsA`@j@D?ECa@H]?MCKBMGK]SKFKu@MmA_@K?E@GAK@e@CKIKOTw@F_@Hl@AFINKBI@OEQ?ICK@q@Qy@G{@a@GAUOK@OEIDIAQEWASGs@_@SG@C[SCCQAQIgAY_@QGIE?WNQDAR@LE^K\\@LSj@E^Mj@QtAGH@HOVE`@EJI\\C?Gx@I^C@KVAp@E\\ZGT]aAJCKNRFJHFGE?SGIEHRHBNOCOVA?ETCd@IZMXATERENIJET]IYYiAQc@MG?_@OSCQIE?EGMGQAWMW?ICQOI@_@IEEWIg@CUGUCYMOKIN[LORSd@C?IGGA]n@YZMTc@d@i@k@OWo@w@QYGEc@o@WU_@SIICOIOg@o@G]W[UOQ_@e@k@GMWYIMOOS]m@s@IOc@_@OUAAEBYf@MIQSc@KQOM@IEWGKISAaBw@YG_A[OIe@QQKcAKk@QI?qAm@a@KKKAIHu@Vy@Vu@BEFBBA?B?A",
+"average_heartrate": null,
+"average_speed": 1.447,
+"elevation_gain": 42.9,
+"source": "strava",
+"streak": 24
 }
 ]
