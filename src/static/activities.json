@@ -14510,5 +14510,53 @@
 "elevation_gain": 3.2,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18792025575,
+"name": "午間騎乘",
+"distance": 2250.1,
+"moving_time": "0:13:18",
+"type": "Ride",
+"start_date": "2026-06-05 03:00:46+00:00",
+"start_date_local": "2026-06-05 12:00:46",
+"location_country": "{\"city\": \"Kōfu\", \"coordinate\": [138.56215, 35.67015], \"country\": \"Japan\", \"display\": \"Asahi 3-chome, Tenjincho, Kōfu, Yamanashi Prefecture, 400-0035, Japan\", \"province\": \"Yamanashi Prefecture\"}",
+"summary_polyline": "olwxEsctlYCJ@a@AKC?GRARBDH?@BBTFFd@TKTDCAC@AOGDUKMOIOCIHEE@OHSBWE?ACAOBKB?C]PO@HDHD@DEZGH?D@JEL@r@LX@TJ\\Cp@D^J|@Hf@J^BNEBDTB@BJ@XLREH@BDLBF?RBDEPDb@AVBNC\\Fp@PJCJ?RDDFPCXDVCF@f@ERBd@E`AS^QPQLATIXe@?Gf@sABOLSJ[Ji@DCDQFKRyAJg@@QHa@@e@PgAJmBTcANk@JQHi@Dq@Jy@X_BBo@Fg@ZkBDMRaB`@aC\\}DZ_BHWLsAHc@NmATYBCdAP~@Zp@L@F\\HVVXNNL`Ad@L@RHJ?RJH?TDLFRR@TC`@D]@AXFPL@HEJA@CEI@",
+"average_heartrate": null,
+"average_speed": 2.82,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 18793441189,
+"name": "午後騎乘",
+"distance": 684.5,
+"moving_time": "0:04:35",
+"type": "Ride",
+"start_date": "2026-06-05 07:35:15+00:00",
+"start_date_local": "2026-06-05 16:35:15",
+"location_country": "{\"city\": \"Kōfu\", \"coordinate\": [138.56215, 35.67015], \"country\": \"Japan\", \"display\": \"Asahi 3-chome, Tenjincho, Kōfu, Yamanashi Prefecture, 400-0035, Japan\", \"province\": \"Yamanashi Prefecture\"}",
+"summary_polyline": "uwuxEedvlY[FAEL_@Hm@FY@W@?@GRc@Fu@@c@DYFE?E@_@DYH]B?HMJ_@@[AUJQDKA[FQCU@GHIBOG[?OHOPOFMBSd@gB@_AVm@Ay@XU@KHIDMBSAa@KW@GOA[]Y_@EgAISG[GG",
+"average_heartrate": null,
+"average_speed": 2.489,
+"elevation_gain": 6.1,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 18794107495,
+"name": "傍晚步行",
+"distance": 2297.3,
+"moving_time": "0:27:39",
+"type": "Hike",
+"start_date": "2026-06-05 08:51:37+00:00",
+"start_date_local": "2026-06-05 17:51:37",
+"location_country": "{\"city\": \"Kōfu\", \"coordinate\": [138.56215, 35.67015], \"country\": \"Japan\", \"display\": \"Asahi 3-chome, Tenjincho, Kōfu, Yamanashi Prefecture, 400-0035, Japan\", \"province\": \"Yamanashi Prefecture\"}",
+"summary_polyline": "atuxEukwlYyAI}@QIEAAF@Y[GC[@i@MWAa@SUEGCSASOGMICQCaA]s@QKGIKQ@CRGL@HEFE^Qf@DLKX[TBJAXOj@OjAEJ@HKNIXGHCZEJA^If@GLMf@CL@b@KR?JMPAXGPOp@KN@ZY~@SBOOOUGAOIG@mAWSGQMa@Ee@MOGIGMGWAWMI?MA[OQGQ?MCGEI@a@ICBEAe@[ELYb@MAKHMZGAEKE?AFUTEPQVKVq@z@ECWc@E[QIIOOMg@u@[_@KQYUYOYWGOa@q@GQQSQWUQUi@c@q@i@o@S[QQe@s@i@a@SYAAE@]h@Y[_@KWMKAs@YK?UGUQe@KKKUGc@SeBk@QM_@FSCe@WSCMMi@MWQ_@IMIISHQD[XmALWDQFEJJSHBBHBBF?A",
+"average_heartrate": null,
+"average_speed": 1.385,
+"elevation_gain": 39.0,
+"source": "strava",
+"streak": 2
 }
 ]
