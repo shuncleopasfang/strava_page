@@ -14766,5 +14766,37 @@
 "elevation_gain": 39.2,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 18886015836,
+"name": "午間騎乘",
+"distance": 4000.3,
+"moving_time": "0:18:12",
+"type": "Ride",
+"start_date": "2026-06-12 03:15:48+00:00",
+"start_date_local": "2026-06-12 12:15:48",
+"location_country": "{\"city\": \"Kōfu\", \"coordinate\": [138.56215, 35.67015], \"country\": \"Japan\", \"display\": \"Asahi 3-chome, Tenjincho, Kōfu, Yamanashi Prefecture, 400-0035, Japan\", \"province\": \"Yamanashi Prefecture\"}",
+"summary_polyline": "mlxxEwzwlYGBDY@J?AKDAADAOPKn@Ux@IPCJBF`@DFHF?VLPDh@b@^?RLJ?r@Vx@^J?RFPJ^Hl@VLAHJFBF?FCF@F@^RPCpAf@Z\\BEPQNBPLHHd@ZNP`D|Ev@`AR`@XTh@f@b@x@f@r@HFjAdBf@l@?FS\\KJSHGJIBCDa@z@]NAJUHAPOb@CDUFEFKd@CFOHGXQ`@GJWDOp@Sd@QDCNGBWd@CJFJA@D@BFd@\\NNHBBBX@?LHB\\Aj@Hh@NnB\\p@VvA\\R@h@PZBl@PRH@DIn@A`@IZ?d@c@fDEb@?DDBFA@BHREf@UjAC^Qz@Sx@BDET[z@FD?BOh@AVGT?\\EZBNHFHBDDNFDDAHSFEL?HKFBC?[XC?DUMSEGIAm@Fy@AQB[Zm@BMFCf@HN?tANVJj@NDDVLx@R\\LRNHNn@RLJ\\JRNl@NXLL@^LDFTBx@\\^@ZH~AHn@LlAHTFDDXDBCNELIRc@Ja@HaAN_ADo@H]B_@DQ@OFa@?GLe@Jg@h@kDNwALm@@s@F[HSDm@Le@BWJg@NoBTsABUDQRMh@E^D\\C^Lj@F`@Hj@\\PFb@ZHJNHLNRJNA\\HNA`@LXP@x@If@HR?@?CBEFA@B?AADDF",
+"average_heartrate": null,
+"average_speed": 3.663,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 9
+},
+{
+"run_id": 18886669609,
+"name": "午後騎乘",
+"distance": 5390.7,
+"moving_time": "0:34:04",
+"type": "Ride",
+"start_date": "2026-06-12 04:15:08+00:00",
+"start_date_local": "2026-06-12 13:15:08",
+"location_country": "{\"city\": \"Kōfu\", \"coordinate\": [138.56215, 35.67015], \"country\": \"Japan\", \"display\": \"Asahi 3-chome, Tenjincho, Kōfu, Yamanashi Prefecture, 400-0035, Japan\", \"province\": \"Yamanashi Prefecture\"}",
+"summary_polyline": "yhuxE}zulYCJ?CBAAk@SIE@QSs@SKGC@?JKZMBEEG@MEWd@[HBFO`@IL@DEPMLIZIFkAa@QAOEa@AUGc@GMGI?EBKVOz@Oh@O~@AVQdA?HQ~@Ev@SrA?PMbAUpA?JQzAAl@K`@UlBKH_@AMBAFE@@TIJO@SEW?y@GI@OGiAQM?_@M]?OEO@eAOECi@Ki@OKAOIQAk@OOASKWGOOUGm@c@WEMQSMOEEEa@KMIOCWMOEQK]Ke@WUEODSROf@Q|@ATBDBAJDAJB?CBAFBN@CCAEDEKEGS?GH?LGFEROXALBDCJM`@Gf@[jASdBIVKl@EF?TO`@AZIR@DC\\IN?L[z@e@hCQf@SM?IFEHUb@_CJW@SNSB_@`@oAPe@?MH]BsATc@Ru@Da@FMB[Nq@Bc@@IHMX@HADE@MHD?GE?J?GWIEMAACH[?SPy@Hu@HSMS?ETWH_@FI?ONy@Nk@JOJo@JSBMN]NiA@_@Ti@Hu@`@g@Fg@FQ@GDEH{@NMLG^CHGXm@JO?GFEFYZe@?KAG@MRe@@[J[HQH_@LQDk@ROFKF]FQBYFQDc@LYHo@JOFYFK@MHKA[NYAMBITa@Dw@\\aADWHKBQ\\w@CU@EDIdAs@@UIgBMf@[v@]fCALIREXKJ?JFHPFJ?BDa@DEL@CE?@K@JEHIHBBIFEJQJe@a@k@WCIYCOGG@QKWAeAa@aASq@WGAC@IIQIO@w@UM@ECK@{AbAO@ENG?KHs@x@_@j@K?WUOWQSE?MI]s@w@}@MUw@k@Uc@g@s@EOQWYWIOSKCKSWAGIOMMu@iAcAoASIQ[EAMHMRGBKMOK_ASEEUIKKSAIEKAa@[M?SKs@Q]OWGaAk@KAW@s@Mi@OIIg@QEGc@KUKCO?KLs@FQDG@QLg@H?HE?LC?",
+"average_heartrate": null,
+"average_speed": 2.637,
+"elevation_gain": 50.9,
+"source": "strava",
+"streak": 9
 }
 ]
