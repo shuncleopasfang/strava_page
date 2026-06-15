@@ -109,9 +109,16 @@
 
 @layer base {
   html,
-  body {
-    max-width: 100%;
+  body,
+  #root {
+    width: 100%;
+    min-width: 0;
+    margin: 0;
     overflow-x: hidden;
+  }
+
+  html,
+  body {
     background-color: var(--color-background);
     color: var(--color-text-primary);
     transition:
@@ -226,16 +233,4 @@ hr {
 .grid-svg .svg-special-color2 {
   fill: #ed55db;
   stroke: #ed55db;
-}
-
-/* Mobile-specific improvements */
-@media only screen and (max-width: 768px) {
-  .mobile-map-container {
-    margin-bottom: 1rem;
-  }
-
-  /* Ensure mobile layout doesn't require min-width */
-  body {
-    overflow-x: auto;
-  }
 }

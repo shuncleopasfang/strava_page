@@ -1,14 +1,1 @@
-/* Mobile-specific improvements for running page */
-
-@media only screen and (max-width: 768px) {
-  /* Prevent horizontal overflow on the main container */
-  .mobile-map-container {
-    margin-bottom: 1rem;
-    max-width: 100%;
-    overflow: hidden;
-  }
-
-  body {
-    overflow-x: hidden;
-  }
-}
+/* Mobile browsers render the desktop layout through the fixed viewport. */
