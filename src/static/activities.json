@@ -15150,5 +15150,53 @@
 "elevation_gain": 2.0,
 "source": "strava",
 "streak": 16
+},
+{
+"run_id": 18981014753,
+"name": "午後騎乘",
+"distance": 975.0,
+"moving_time": "0:05:12",
+"type": "Ride",
+"start_date": "2026-06-19 07:32:31+00:00",
+"start_date_local": "2026-06-19 16:32:31",
+"location_country": "{\"city\": \"Kōfu\", \"coordinate\": [138.56215, 35.67015], \"country\": \"Japan\", \"display\": \"Asahi 3-chome, Tenjincho, Kōfu, Yamanashi Prefecture, 400-0035, Japan\", \"province\": \"Yamanashi Prefecture\"}",
+"summary_polyline": "ohuxEwzulYUHCE?ALIBOGSOU@IOIG?MGGEW?I_@QII@MFWIGAgAa@BHMSu@s@G?MEWSc@QOCECMCYOIK?SJYFe@?i@Nw@D{@`@qCJy@L{@Lk@RiAB[VsAFc@?Kd@gCFg@CIJQRk@?UV}@Ow@SDCFi@MGGC]EELC",
+"average_heartrate": null,
+"average_speed": 3.125,
+"elevation_gain": 8.4,
+"source": "strava",
+"streak": 16
+},
+{
+"run_id": 18981876682,
+"name": "傍晚步行",
+"distance": 2832.9,
+"moving_time": "0:34:34",
+"type": "Hike",
+"start_date": "2026-06-19 08:47:16+00:00",
+"start_date_local": "2026-06-19 17:47:16",
+"location_country": "{\"city\": \"Kōfu\", \"coordinate\": [138.56215, 35.67015], \"country\": \"Japan\", \"display\": \"Asahi 3-chome, Tenjincho, Kōfu, Yamanashi Prefecture, 400-0035, Japan\", \"province\": \"Yamanashi Prefecture\"}",
+"summary_polyline": "geuxEoewlY{Bi@CJSIGYCCCBIOw@Ki@YUGBUFUAIGIGSIKi@a@UEUAVT?NGTGNOREBm@UWCu@]O@MCI?KGM@SIa@WKCSB@BI^@@e@]OCC@[MUAKIC?e@[IIUGW?[GSOE?OI]MGGKUIIOT?JQr@KLCJCF@PMh@CXEJGb@Sn@IZEb@GFK`@MTCL@HCXSbAATMf@BRE`@GYDHBPGDNTGJAQHR?aAE?AFQQGd@MDFJ@b@GHCPEDAVEFKBD^GTOb@ADEAQDMMGS_@UG?MEy@GSGa@SSAMEGECEKGEBICOKMCGBQ?UOK?WIIIWGm@Gc@MKMa@MGNe@VIZGHMDKHQRMZi@n@S\\QNSYKIWe@UMQWICKWYk@]e@[[c@UUg@[c@]o@WS]q@QMQYQOO[SQ[e@OKw@kAOMSIM^GLOKKSa@MWMa@COKKEK?WI_@Wa@MOI_@IUIg@Ug@Q]SKAIDI@]E]Q_@Im@_@E@UMMASKGGCE@MJy@\\iAHa@L?HFOCENBNHBHA@C?G",
+"average_heartrate": null,
+"average_speed": 1.366,
+"elevation_gain": 42.5,
+"source": "strava",
+"streak": 16
+},
+{
+"run_id": 18990722619,
+"name": "晨間騎乘",
+"distance": 2671.4,
+"moving_time": "0:11:38",
+"type": "Ride",
+"start_date": "2026-06-20 00:59:25+00:00",
+"start_date_local": "2026-06-20 09:59:25",
+"location_country": "{\"city\": \"Kōfu\", \"coordinate\": [138.56215, 35.67015], \"country\": \"Japan\", \"display\": \"Asahi 3-chome, Tenjincho, Kōfu, Yamanashi Prefecture, 400-0035, Japan\", \"province\": \"Yamanashi Prefecture\"}",
+"summary_polyline": "qlxxEszwlYEKK?CDS~@K^MTERATDJx@\\NDRPXLnAXVCZFd@Pd@ZvBz@H@l@Vv@Th@NTBNJTT\\]L?DB^b@j@x@~BtCrAhBLV^\\t@dAFLZ\\bAxA`AjALTBDGNe@\\]^OVYRg@l@s@p@IPCP_@f@MVKLAF_AjAy@jASRYl@IV?J`Ah@r@Pb@@PHVBNA^D\\ETBz@Tt@Lr@R`ANZL|Bh@XLOv@ObAA^UpAEb@WtA@HLDPJBLQh@Kv@IPg@xCSh@?HRb@IJ]bAG`@Cb@PLBXFH@J@CCBDD?KC?CDCC?CILBDBIACGGMAQb@OTc@zAEb@Ol@?JEPALIRKj@E\\BVMv@IVAPM\\?d@Ih@ELQRMf@@JTFDAAB",
+"average_heartrate": null,
+"average_speed": 3.827,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 17
 }
 ]
