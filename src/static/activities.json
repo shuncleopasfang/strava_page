@@ -15262,5 +15262,37 @@
 "elevation_gain": 20.4,
 "source": "strava",
 "streak": 18
+},
+{
+"run_id": 19007301512,
+"name": "傍晚步行",
+"distance": 2464.4,
+"moving_time": "0:25:44",
+"type": "Hike",
+"start_date": "2026-06-21 08:55:25+00:00",
+"start_date_local": "2026-06-21 17:55:25",
+"location_country": "{\"city\": \"Kōfu\", \"coordinate\": [138.56215, 35.67015], \"country\": \"Japan\", \"display\": \"Asahi 3-chome, Tenjincho, Kōfu, Yamanashi Prefecture, 400-0035, Japan\", \"province\": \"Yamanashi Prefecture\"}",
+"summary_polyline": "{quxEalwlY^q@B?DTDB@LEFG@k@Vk@C@HI?GDUCW@y@MW?aAa@W@m@IQ?OCCESKKDUKQOuAk@WSk@MKKWo@GA?RAFc@t@Mb@DPGRCn@GVY|@CB@LAF]j@BLAXGZKLBZALIH?NIR?^Ih@EJCACNDH@QQX?@@GWZCN@\\CH@BKVCRMT?XOVMf@C@K?c@i@KAe@Mg@EUKUCe@QC@GCe@SM?UM]?IIa@IWMs@QQ?YKOAe@UOPa@T?JOTEJQB]X]d@Q\\c@d@c@a@GMYYOUKIOSUi@g@k@GKOO]QKKe@}@WWCIIOWQa@y@[_@}@sAsAcBYQKMG@GDO\\C@Y[KGQEOI[Cc@Uk@QsAk@}@WCE_@Kc@QOMWIWFM?UGq@WmAm@g@QCEAMHa@D]f@gBFAJDM@ENPN",
+"average_heartrate": null,
+"average_speed": 1.596,
+"elevation_gain": 41.0,
+"source": "strava",
+"streak": 18
+},
+{
+"run_id": 19017279467,
+"name": "午間騎乘",
+"distance": 3285.3,
+"moving_time": "0:14:56",
+"type": "Ride",
+"start_date": "2026-06-22 02:40:34+00:00",
+"start_date_local": "2026-06-22 11:40:34",
+"location_country": "{\"city\": \"Kōfu\", \"coordinate\": [138.56215, 35.67015], \"country\": \"Japan\", \"display\": \"Asahi 3-chome, Tenjincho, Kōfu, Yamanashi Prefecture, 400-0035, Japan\", \"province\": \"Yamanashi Prefecture\"}",
+"summary_polyline": "mlxxEmzwlYEDIGE?CG@ODCF@FFOBI`@?LG`@Qn@OP@JF@FCJ?VHLAF@rAp@J@ZZb@NRBRLF?XLBDFAHBlAb@HDPDLNBNEV?XKd@I`AGPEj@GZ?N@B@h@EL@@G@GFQ?EHC?@BHa@DGBBDA`@Bh@Zb@`@X^JHFLZT^`@`@r@Z`@dAhAj@x@^b@p@j@t@hARPd@j@\\VLFXXLFDCFA?DRL@BANEPMD?HSLQV?MFQHIBWAGZk@LGHMAGDOLIH[FKl@[J[b@_@BQHODSR]Vu@LSZUJQZADCVATDXEBFPHL@HAb@RJ@RA`A@JCVJDFl@@ZFrAXRJl@Ab@JPJRVLMHBHN?PBJC?DL?HCb@?l@CJGH?NR\\FDPFNV^LLL\\Hd@Xv@R^PV@VLd@LRH\\ZH@XRl@LXNVFZLNJL?DBJTPJRDHFf@D`@N\\PRAJBJLZDJLP@r@Rr@\\F@PRn@VNLl@Pl@BJJT@\\NTDRNP@ZNDF@RDL?h@If@A^Mr@Ad@GXEh@Mj@Af@@?Bb@?h@E\\a@hCI`AKRCN@TC\\AdACH?JGHE@OAQM]Kg@EIBHB",
+"average_heartrate": null,
+"average_speed": 3.667,
+"elevation_gain": 3.2,
+"source": "strava",
+"streak": 19
 }
 ]
