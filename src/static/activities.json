@@ -15406,5 +15406,37 @@
 "elevation_gain": 37.1,
 "source": "strava",
 "streak": 21
+},
+{
+"run_id": 19057468336,
+"name": "午後騎乘",
+"distance": 1652.4,
+"moving_time": "0:07:56",
+"type": "Ride",
+"start_date": "2026-06-25 04:49:52+00:00",
+"start_date_local": "2026-06-25 13:49:52",
+"location_country": "{\"city\": \"Kōfu\", \"coordinate\": [138.56215, 35.67015], \"country\": \"Japan\", \"display\": \"Asahi 3-chome, Tenjincho, Kōfu, Yamanashi Prefecture, 400-0035, Japan\", \"province\": \"Yamanashi Prefecture\"}",
+"summary_polyline": "qlxxE{zwlYICDBAGG@CF?HGN?JKZ@HIPKh@E@AJDF@APBFFFCl@TNF?BLBf@`@LCLBHHF@^NXDt@X`@JLLP@l@VJ@LF@BNDDCD@h@ZZJx@LPJT\\Z[FDTHLNPFFHbApAHFHBLLl@t@FDXj@p@v@Zj@JBDHNHFFP^FDZd@dAfBt@|@T\\NLLNFCRUj@w@LK`@w@RSJYJIFBH?JDPEF@`@VTARRFBP@PLLGn@BlANVNFJT@z@Z^BRF\\Ld@VLAPI@GAGB??KLK?GFIHODCCQ?KBQTW@QNWAE`@o@K@[K?DCEB?AE?@IWCP@@",
+"average_heartrate": null,
+"average_speed": 3.471,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 22
+},
+{
+"run_id": 19058046429,
+"name": "午後騎乘",
+"distance": 1786.8,
+"moving_time": "0:11:28",
+"type": "Ride",
+"start_date": "2026-06-25 05:37:41+00:00",
+"start_date_local": "2026-06-25 14:37:41",
+"location_country": "{\"city\": \"Kōfu\", \"coordinate\": [138.56215, 35.67015], \"country\": \"Japan\", \"display\": \"Asahi 3-chome, Tenjincho, Kōfu, Yamanashi Prefecture, 400-0035, Japan\", \"province\": \"Yamanashi Prefecture\"}",
+"summary_polyline": "{lvxE_`wlY?CK@HADGDB@C@HIn@BPALBB@JFGCCBGBAAIBI@@KO@VJAHBFNB??HAWE?CQKIM?CJ?EONALJ\\AN@HATIPC?A^On@?Hg@XGAAGGCqAc@w@Ko@Q_@EAA?GO[UDMIC?UFOCOIIFIGQ?GGQA?CUDSKIIUEKEGIIAWDa@^G?KNMB[b@aAbAYd@IBEA_@a@q@y@q@mAC?]IKIQSC@_@Y_@a@Wc@KUOOQi@OWIIo@wAS[i@k@[m@EAGKOKOIOOSAQNODMI]MUCw@]sAm@IKICQMa@IQKWGIKe@QCCIEOCI@S?OGSAg@[MCOSMCIGMCM@KGUA]SQ{@Bs@FUFm@JGNAG@ADBDABDBI??@",
+"average_heartrate": null,
+"average_speed": 2.597,
+"elevation_gain": 35.1,
+"source": "strava",
+"streak": 22
 }
 ]
