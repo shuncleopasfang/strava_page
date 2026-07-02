@@ -4,6 +4,8 @@ Cleopas Strava is a personal activity-visualization project that presents Strava
 
 Live site: https://cleopas-strava.vercel.app
 
+Strava profile: https://www.strava.com/athletes/shuncleopasfang
+
 ## Data Source
 
 Activity data is synchronized from Strava through the Strava API and rendered as static site data for publication on Vercel. Imported activity names are preserved as provided by Strava.
